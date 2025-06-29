@@ -10,6 +10,3 @@
 //     }
 //   }
 // }
-
-/////////////done
-///check if the input is largest or not
